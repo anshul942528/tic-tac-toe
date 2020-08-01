@@ -15,7 +15,8 @@ First of all when I thought of this game, the picture on mind was
 
 *(example : If I freeze the gme play, what all things will be there in front of me related to game)
 
-*{
+```
+{
   player1,
   player2,
   currentPlayer,
@@ -26,6 +27,7 @@ First of all when I thought of this game, the picture on mind was
   gamestatus(xwin,owin,tie,playing),
   move
 }
+```
 
 
 # From the above discussion we found out all the information these will be converted to entity and actions
