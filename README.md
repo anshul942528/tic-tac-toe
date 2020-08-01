@@ -25,4 +25,4 @@ First of all when I thought of this game, the picture on mind was
 
 
 # From the above discussion we found out all the information these will be converted to entity and actions
-Entity
+* Entity
