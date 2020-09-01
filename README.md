@@ -8,12 +8,12 @@ First of all when I thought of this game, the picture on mind was
 1. A board
 2. 2 Players
 3. 2 Symbols (1 for each player)
-4. Square
+4. Squares
 5. UserInteraction
 4. Move
 5. Game State 
 
-* (example : If I freeze the gme play, what all things will be there in front of me related to game)
+* (example : If I freeze the game play, what all things will be there in front of me related to game)
 
 ```
 {
