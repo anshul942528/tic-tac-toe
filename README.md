@@ -4,7 +4,7 @@ tic tac toe game in object oriented way
 
 # My approach to design this game
 
-First of all when I thought of this game, the picture on mind was 
+First of all when I thought of this game, the picture on my mind was 
 1. A board
 2. 2 Players
 3. 2 Symbols (1 for each player)
